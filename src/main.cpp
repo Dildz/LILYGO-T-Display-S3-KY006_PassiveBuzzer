@@ -27,7 +27,7 @@
  * 
  *  Notes:
  *   - The SuperMarioBrosTheme.h file was copied from the BuzzerMelody library example folder to this
- *     prejects include folder.
+ *     projects include folder.
  *********************************************************************************************************/
 
 
