@@ -44,11 +44,11 @@
 #include "helper_functions.h"
 
 // Hardware definitions
-#define BUZZER_PIN      1     // GPIO1
-#define BUZZER_CHANNEL  0     // LEDC channel
-#define PIN_LCD_BL      15    // Backlight control
-#define BOOT_BUTTON_PIN 0     // GPIO0 (BOOT button)
-#define KEY_BUTTON_PIN  14    // GPIO14 (KEY button)
+#define BUZZER_PIN      1  // GPIO1
+#define BUZZER_CHANNEL  0  // LEDC channel
+#define PIN_LCD_BL      15 // Backlight control
+#define BOOT_BUTTON_PIN 0  // GPIO0 (BOOT button)
+#define KEY_BUTTON_PIN  14 // GPIO14 (KEY button)
 
 // Global objects
 TFT_eSPI tft = TFT_eSPI();
